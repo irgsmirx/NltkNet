@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2043
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NltkNet", "NltkNet\NltkNet.csproj", "{9803F52C-3ABD-446F-AD0F-4C5C9B615780}"
 EndProject
@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NltkNetCore", "NltkNetCore\NltkNetCore.csproj", "{DD1DA531-B258-4286-934E-A0EF32F59936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{9E113B4F-0C4B-4055-82A7-D34880C150E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E113B4F-0C4B-4055-82A7-D34880C150E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E113B4F-0C4B-4055-82A7-D34880C150E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1DA531-B258-4286-934E-A0EF32F59936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1DA531-B258-4286-934E-A0EF32F59936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1DA531-B258-4286-934E-A0EF32F59936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1DA531-B258-4286-934E-A0EF32F59936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
