@@ -9,6 +9,7 @@
 ## **Frameworks supported**
 
 - .NET 4.5 or later
+- .NET Core 3.1 or later
 
 ## **Dependencies**
 
